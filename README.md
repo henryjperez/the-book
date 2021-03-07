@@ -4,3 +4,4 @@ This is guide from developers to developers. I'm trying my best to make this as 
 
 This is the link =&gt;&gt; [Conoscenze on GitBook](https://henryjperez.gitbook.io/conosceza)
 
+image: [this is it](./assets/asset1.jpg "this is an alternative text")
