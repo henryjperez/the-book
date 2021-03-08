@@ -4,4 +4,4 @@ This is guide from developers to developers. I'm trying my best to make this as 
 
 [Conoscenza](https://henryjperez.gitbook.io/conoscenza)
 <br>
-[Join to our Discord Server](https://discord.gg/Q5vf6DbFsZ "This Discord Server is really cool")
+[Join to our Discord Server](https://discord.gg/Q5vf6DbFsZ)

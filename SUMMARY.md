@@ -1,3 +1,8 @@
 # Table of contents
 
-* [Conoscenza](README.md)
+* [Welcome](README.md)
+
+## JavaScript (JS)
+
+* [Introduction](./js/README.md)
+* [Syntax](./js/syntax.md)
